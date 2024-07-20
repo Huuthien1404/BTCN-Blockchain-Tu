@@ -1,6 +1,6 @@
 # [Bài tập cá nhân về Blockchain]
 
-Thông tin cá nhân:
+**Thông tin cá nhân**:
 Họ và tên: Ngô Nguyễn Quang Tú
 MSSV: 20120234
 
@@ -16,3 +16,6 @@ b. Xem thống kê tài khoản
 c. Gởi coin cho một địa chỉ khác     
 d. Xem lịch sử giao dịch (build giống GUI **[Etherscan.io](https://etherscan.io/)** )     
 2. Sử dụng thuật toán Proof Of Stake
+
+**Video demo**
+https://drive.google.com/file/d/1Wc_ygxAbx-HGTj7UOkIWgJ0K_LZOLq8b/view?usp=drive_link
