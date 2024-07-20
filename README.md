@@ -1,5 +1,9 @@
 # [Bài tập cá nhân về Blockchain]
 
+Thông tin cá nhân:
+Họ và tên: Ngô Nguyễn Quang Tú
+MSSV: 20120234
+
 **Yêu cầu:**  
  
 -   Ghi nhận quá trình làm việc lên Github (Source Code, Tài liệu tham khảo, Readme.txt)
